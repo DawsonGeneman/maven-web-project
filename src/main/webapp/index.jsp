@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Automated Build Trigger Testt</title>
+<title>Continuous Integration, Delivery and Development Pipeline</title>
 </head>
 <body>
 
